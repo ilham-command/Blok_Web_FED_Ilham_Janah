@@ -39,7 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://github.com/ilham-command/Blok_Web_FED_Ilham_Janah 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepage Portfolio website
+  Homepage Portfolio website <br>
   <img src="images/wireFrame-FED.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
