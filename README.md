@@ -57,6 +57,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  1. High contrast mode wordt goed ondersteund door de website.
+  2. Er wordt weinig gebruik gemaakt van headings in de code en 
+  als het wordt gebruikt, ziet het er een beetje onlogisch uit.
+  3. Veel gebruik van div's en span's met een css redenering. Semantisch gezien 
+  niet correct.
+  4. Video's zijn niet bepaald toeganlijk. Geen captions, pauzeknop werkt niet zo goed en 
+  geen mogelijkheid voor transcriptions.
+
 
 </details>
 
